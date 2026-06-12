@@ -21,7 +21,7 @@ This modpack optimizes your game so well using just **15 mods**.
 The only older version and other mod loader planned support is for **1.21.1 NeoForge**, the version-mod loader with the most mods.
 
 ## Can I use this as a base for my own modpack?
-Yes, as long as it follows [Smallifium's license](https://raw.githubusercontent.com/StolkiMC/Smallifium/refs/heads/main/LICENSE.md).
+Sure! Just give credits and don't just reupload the modpack without changing anything or with changing it just a little bit (Don't just add a few mods, make a big change to the modpack).
 
 ## Credits
 A huge thanks to all the mod creators who made this possible. You can find the specific mod list and links to their respective pages by checking any release in the Versions tab.
